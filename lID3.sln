@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lID3", "lID3\lID3.csproj", "{B7F391E4-500E-4CF3-BB70-48CE69741184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lId3.Console", "lId3.Console\lId3.Console.csproj", "{3FB76862-DD91-4E97-A38D-50341EEF13F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F391E4-500E-4CF3-BB70-48CE69741184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F391E4-500E-4CF3-BB70-48CE69741184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F391E4-500E-4CF3-BB70-48CE69741184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F391E4-500E-4CF3-BB70-48CE69741184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB76862-DD91-4E97-A38D-50341EEF13F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB76862-DD91-4E97-A38D-50341EEF13F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB76862-DD91-4E97-A38D-50341EEF13F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB76862-DD91-4E97-A38D-50341EEF13F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

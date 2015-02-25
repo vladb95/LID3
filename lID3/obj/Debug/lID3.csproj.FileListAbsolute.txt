@@ -1,0 +1,5 @@
+E:\Visual Studio new projects\lID3\lID3\bin\Debug\lID3.dll
+E:\Visual Studio new projects\lID3\lID3\bin\Debug\lID3.pdb
+E:\Visual Studio new projects\lID3\lID3\obj\Debug\lID3.csprojResolveAssemblyReference.cache
+E:\Visual Studio new projects\lID3\lID3\obj\Debug\lID3.dll
+E:\Visual Studio new projects\lID3\lID3\obj\Debug\lID3.pdb
